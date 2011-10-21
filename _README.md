@@ -17,5 +17,5 @@ A quick way to create an attribute on your ActiveRecord models that always respo
 
 # Credits
 
-* **@jkreeftmeijer** for coming up with the killer MicroGem concept (http://jeffkreeftmeijer.com/2011/microgems-five-minute-rubygems/)
-* **@moutten** for the code idea and encouragement to stop creating these methods by hand
+* **[@jkreeftmeijer](htpp://twitter.com/jkreeftmeijer)** for coming up with the killer MicroGem concept<br/> (http://jeffkreeftmeijer.com/2011/microgems-five-minute-rubygems/)
+* **[@moutten](http://twitter.com/moutten)** for the code idea and encouragement to stop creating these methods by hand
