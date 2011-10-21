@@ -14,3 +14,8 @@ A quick way to create an attribute on your ActiveRecord models that always respo
     o.is_active?                  # => true
     o.is_active = nil 
     o.is_active?                  # => false
+
+# Credits
+
+* **@jkreeftmeijer** for coming up with the killer MicroGem concept (http://jeffkreeftmeijer.com/2011/microgems-five-minute-rubygems/)
+* **@moutten** for the code idea and encouragement to stop creating these methods by hand
