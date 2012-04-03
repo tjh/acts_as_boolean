@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
   s.version     = '0.1.0'
   s.platform    = Gem::Platform::RUBY
   s.author      = 'Tim Harvey'
-  s.email       = 'tim@theharveys.org'
+  s.email       = 'tharvey@squaremouth.com'
   s.summary     = 'Acts As Boolean'
   s.description = 'Create question-mark attr_accessor model methods'
 
